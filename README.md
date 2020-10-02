@@ -1,3 +1,7 @@
+
+
+
+### Hello, my name is Victor 👋
 <center>
 <table>
   <tr>
@@ -6,9 +10,6 @@
   </tr>   
 </table>
 </center>
-
-
-### Hello, my name is Victor 👋
 <ul>
  <li>
     <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="12" alt="Linkedin"> 
