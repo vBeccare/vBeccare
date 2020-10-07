@@ -1,7 +1,7 @@
 
 
 
-### Hello, my name is Victor 👋
+### Hi there, I'm Victor 👋
 <center>
 <table>
   <tr>
