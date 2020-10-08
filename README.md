@@ -9,11 +9,11 @@
   
 </p>
 <center>
-<table hide_border=true>
+<table >
   <tr>
       
-  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&hide=html,css&layout=compact&theme=highcontrast" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=vbeccare&show_icons=true,css&layout=compact&theme=highcontrast"/>
+  <td hide_border=true><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&hide=html,css&layout=compact&theme=highcontrast" /></td>
+  <td hide_border=true><img src="https://github-readme-stats.vercel.app/api?username=vbeccare&show_icons=true,css&layout=compact&theme=highcontrast"/>
   </>
   </tr>   
 </table>
