@@ -1,7 +1,13 @@
-
-
-
-### Hi there, I'm Victor 👋
+<!-- HEADER -->
+<p align="center">
+  <img src="./github/iromaan.gif" width="px">
+   <br><br>
+  <samp>
+    👋 Hi there, I'm Victor 👋
+  </samp>
+  <p align="center"><a href="./README.md">Em Inglês ➤</a></p>
+  
+</p>
 <center>
 <table>
   <tr>
