@@ -3,7 +3,7 @@
   <img src="./github/iromaan.gif" width="120px">
    <br><br>
   <samp>
-    👋 Hi there, I'm Victor 👋
+    👋 Olá, eu sou o Victor. 👋
   </samp>
   <p align="center"><a href="./README.md">Em Inglês ➤</a></p>
   
