@@ -8,7 +8,7 @@
   <p align="center"><a href="./README.md">Em Inglês ➤</a></p>
   
 </p>
-< p align="center">
+<p align="center">
   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&hide=html,css&layout=compact&theme=vision-friendly-dark" />
 </p>
 <p align="center">
