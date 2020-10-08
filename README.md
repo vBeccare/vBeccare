@@ -13,7 +13,7 @@
   <tr>
       
   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&hide=html,css&layout=compact&theme=radical" /></td>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=vbeccare&show_icons=true" alt="vbeccare"/>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=vbeccare&show_icons=true,css&layout=compact&theme=radical/>
   </>
   </tr>   
 </table>
