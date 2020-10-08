@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./github/iromaan.gif" width="80px">
+  <img src="./github/iromaan.gif" width="120px">
    <br><br>
   <samp>
     👋 Hi there, I'm Victor 👋
