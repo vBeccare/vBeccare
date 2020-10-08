@@ -5,7 +5,7 @@
   <samp>
     👋 Olá, eu sou o Victor. 👋
   </samp>
-  <p align="center"><a href="./README.md">Em Inglês ➤</a></p>
+  <p align="center"><a href="./README.md">in english ➤</a></p>
   
 </p>
 <p align="center">
