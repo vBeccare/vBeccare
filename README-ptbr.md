@@ -8,6 +8,9 @@
   <p align="center"><a href="./README.md">In English ➤</a></p>
   
 </p>
+<p align="center> 
+  Eu tenho 19 anos, sou uma pessoa que gosta muito de tecnologia. Durante meu curso de informática aprendi bastante sobre Java. Hoje trabalho com front-end.          
+</p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&hide=html,css&layout=compact&theme=vision-friendly-dark" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=vbeccare&show_icons=true,css&layout=compact&theme=vision-friendly-dark"/>
