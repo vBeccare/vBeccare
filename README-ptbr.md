@@ -6,7 +6,7 @@
     👋 Olá, eu sou o Victor. 👋
   </samp>
   <p align="center"><a href="./README.md">In English ➤</a></p>
-   Eu tenho 19 anos, sou uma pessoa que gosta muito de tecnologia. Durante meu curso de informática aprendi bastante sobre Java. Hoje trabalho com front-end.     
+   Eu tenho 20 anos, sou uma pessoa que gosta muito de tecnologia. Durante meu curso de informática aprendi bastante sobre Java. Hoje trabalho com front-end.     
 </p>
 
 <p align="center">
