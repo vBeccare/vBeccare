@@ -6,7 +6,7 @@
     👋  Hi there, I'm Victor. 👋
   </samp>
   <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
-  I am 19 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end.
+  I am 20 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end.
 </p>
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&hide=html,css&layout=compact&theme=vision-friendly-dark" />
