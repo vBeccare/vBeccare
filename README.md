@@ -5,9 +5,10 @@
   <samp>
     👋  Hi there, I'm Victor. 👋
   </samp>
- ### <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
-  I am 21 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end.
+ <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
 </p>
+### <div align="center" width="200">  I am 21 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end. 💻❤️</div>
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devlucca/devlucca/output/github-contribution-grid-snake.svg" align="center" />
