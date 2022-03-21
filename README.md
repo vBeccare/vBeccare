@@ -14,7 +14,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devlucca/devlucca/output/github-contribution-grid-snake.svg" align="center" />
+    <img src="https://raw.githubusercontent.com/vbeccare/vbeccare/output/github-contribution-grid-snake.svg" align="center" />
 </div>
  <br> <br>
 <p align="center">
