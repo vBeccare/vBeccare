@@ -1,10 +1,12 @@
 
-### <div align="center">
+ <div align="center">
   <img src="./github/iromaan.gif" width="120px">
    <br><br>
-  <samp>
+  
+ ### <samp>
     👋  Hi there, I'm Victor. 👋
   </samp>
+  
  <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
 </div>
 
