@@ -3,9 +3,9 @@
   <img src="./github/iromaan.gif" width="120px">
    <br><br>
   
- ### <samp>
+ ### <p>
     👋  Hi there, I'm Victor. 👋
-  </samp>
+  </p>
   
  <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
 </div>
