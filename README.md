@@ -8,14 +8,16 @@
   <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
   I am 21 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end.
 </p>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devlucca/devlucca/output/github-contribution-grid-snake.svg" align="center" />
+</div>
+
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbeccare&layout=compact&theme=vision-friendly-dark" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=vbeccare&show_icons=true,css&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/devlucca/devlucca/output/github-contribution-grid-snake.svg" align="center" />
-</div>
 
 
 
