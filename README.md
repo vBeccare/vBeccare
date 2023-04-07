@@ -10,7 +10,7 @@
  <p align="center"><a href="./README-ptbr.md">Em Português ➤</a></p>
 
 
-### <div align="center" width="200">  I am 21 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end. 💻❤️</div>
+### <div align="center" width="200">  I am 22 years old, I am a person who likes technology a lot. During my computer course I learned a lot about Java. Today I work with front-end. 💻❤️</div>
 
 
 <div align="center">
